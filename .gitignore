@@ -1,0 +1,12 @@
+# Unreal Engine binaries and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.tmp
